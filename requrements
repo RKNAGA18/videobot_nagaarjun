@@ -1,0 +1,8 @@
+instaloader
+tiktokapi
+requests
+asyncio
+aiohttp
+watchdog
+tqdm
+python-dotenv
